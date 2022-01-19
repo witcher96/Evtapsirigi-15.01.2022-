@@ -1,0 +1,32 @@
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.AssemblyInfo.cs
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.exe
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.deps.json
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.runtimeconfig.json
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\ref\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.pdb
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\ref\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.pdb
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.genruntimeconfig.cache
+C:\Users\predator\Desktop\Evtapsirigi\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.exe
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.deps.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.runtimeconfig.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.runtimeconfig.dev.json
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\ref\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\bin\Debug\net5.0\Evtapsirigi 3.pdb
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.csproj.AssemblyReference.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.AssemblyInfoInputs.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.AssemblyInfo.cs
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.csproj.CoreCompileInputs.cache
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\ref\Evtapsirigi 3.dll
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.pdb
+C:\Users\predator\Desktop\Code Tapsiriglar\Evtapsirigi-15.01.2022-\Evtapsiriglari\Evtapsirigi 3\obj\Debug\net5.0\Evtapsirigi 3.genruntimeconfig.cache

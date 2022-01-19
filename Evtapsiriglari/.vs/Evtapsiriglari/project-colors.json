@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "12379bdb-34fe-4e51-9bbb-863b3550cb47": {
+      "ProjectGuid": "12379bdb-34fe-4e51-9bbb-863b3550cb47",
+      "DisplayName": "Evtapsirigi 1",
+      "ColorIndex": 0
+    },
+    "4f316f8d-c510-4503-ae62-c4282c4f3956": {
+      "ProjectGuid": "4f316f8d-c510-4503-ae62-c4282c4f3956",
+      "DisplayName": "Evtapsirigi 2",
+      "ColorIndex": 1
+    },
+    "6a93b1f8-8e80-4d6f-95dc-cc3d0407f29d": {
+      "ProjectGuid": "6a93b1f8-8e80-4d6f-95dc-cc3d0407f29d",
+      "DisplayName": "Evtapsirigi 3",
+      "ColorIndex": 2
+    },
+    "381f1579-ed6b-49ac-899c-17f6b441132e": {
+      "ProjectGuid": "381f1579-ed6b-49ac-899c-17f6b441132e",
+      "DisplayName": "Evtapsirigi 4",
+      "ColorIndex": 3
+    },
+    "9b6b6efe-35fe-488f-add0-05c21c81bec3": {
+      "ProjectGuid": "9b6b6efe-35fe-488f-add0-05c21c81bec3",
+      "DisplayName": "Evtapsirigi 5",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
